@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "adafruit_gfx.h": "c",
+        "adafruit_ssd1306.h": "c",
+        "adafruit_ina219.h": "c"
+    }
+}
